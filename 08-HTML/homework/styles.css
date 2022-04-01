@@ -1,18 +1,28 @@
 
-            h1{
-                color:burlywood;
-            }
-            img{
-                width: 400px;
-            }
-            #thirdDiv{
-                height: 600px;
-                width: 500px;
-                background-color: rgb(255, 237, 218);
-                padding: 50px;
-                border: thick double peru;
-            }
-            #spanID{
-                font-size: 18px;
-                margin: 50px;
-            }
+h1{
+    color:burlywood;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(255, 237, 218);
+    padding: 50px;
+    border: 1px double peru;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+/* Credito Adicional*/ 
+body {
+    background-image: url("https://img.freepik.com/psd-gratis/flat-lay-cocer-tagliatelle-tomates-fondo-dibujado-mano_23-2148396500.jpg?w=2000");
+  }
+div{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
